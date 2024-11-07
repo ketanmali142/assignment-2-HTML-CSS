@@ -1,0 +1,57 @@
+main{
+    width: 90%;
+    height: 1550px;
+    border: 2px solid rgb(1, 1, 1);
+    margin: auto;
+    
+}
+body{
+    background-color: aqua;
+}
+.nav{
+    margin-top: -2%;
+    height: 10%;
+    width: 100%;
+    
+}
+#div1{
+    background-color: rgb(40, 111, 156);
+    color: white;
+    height: 70%;
+    padding-left: 10px;
+}
+#div2{
+    margin-top: 0%;
+    background-color: rgb(141, 200, 237);
+    color: white;
+    display: flex;
+    height: 30%;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.men{
+    padding-right: 10px;
+    color: rgb(237, 27, 27);
+}
+.div3{
+    border: 2px solid black;
+    margin-top: 25px;
+    padding: 5px;
+    height: 70%;
+    padding-bottom: 0%;
+    background-color: white;
+}
+.desc{
+    margin-top: 0%;
+}
+.shar{
+    width: 70%;
+    display: inline-flex;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 0%;
+    background: linear-gradient(white, rgb(87, 85, 85));
+}
+.div4{
+    height: 11.1%;
+}
